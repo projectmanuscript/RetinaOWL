@@ -96,7 +96,7 @@ Root/
 
 ## Downloads
 
-Install the packages with `pip install -r requirements.txt` (Python 3.10, PyTorch with CUDA; a single NVIDIA GPU with at least 24 GB was used).
+Install the packages with `pip install -r requirements.txt` (Python 3.10, PyTorch with CUDA was used).
 
 Datasets and backbone (place as shown in the file structure):
 
@@ -123,4 +123,4 @@ Downloaded automatically on first use: the fovea and optic-disc localiser of fun
 
 ## Running the code
 
-See RUN_ORDER.md for the order in which to run the scripts and how long each one takes.
+See [RUN_ORDER](RUN_ORDER.md) for the order in which to run the scripts and how long each one takes.
