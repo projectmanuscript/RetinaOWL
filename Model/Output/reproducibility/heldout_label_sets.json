@@ -1,0 +1,56 @@
+{
+  "fold_seed": 20260101,
+  "composition": {
+    "head": 1,
+    "medium": 1,
+    "tail": 2,
+    "ultra_rare": 3
+  },
+  "folds": {
+    "1": [
+      "AION",
+      "CB",
+      "EDN",
+      "MNF",
+      "MYA",
+      "RPEC",
+      "TD"
+    ],
+    "2": [
+      "CL",
+      "CRAO",
+      "DR",
+      "ODE",
+      "RP",
+      "ST",
+      "VS"
+    ],
+    "3": [
+      "BRVO",
+      "CF",
+      "MCA",
+      "PRH",
+      "PT",
+      "RT",
+      "TSLN"
+    ],
+    "4": [
+      "MS",
+      "ODC",
+      "ODPM",
+      "PLQ",
+      "PTCR",
+      "RS",
+      "VH"
+    ],
+    "5": [
+      "ARMD",
+      "BRAO",
+      "CME",
+      "CRS",
+      "CWS",
+      "MHL",
+      "TV"
+    ]
+  }
+}

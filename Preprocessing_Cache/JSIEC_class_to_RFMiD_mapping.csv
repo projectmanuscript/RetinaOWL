@@ -1,0 +1,40 @@
+jsiec_class,decision,rfmid_class,debatable_flag,rationale
+0.0.Normal,NORMAL,,,healthy
+0.1.Tessellated fundus,KNOWN,TSLN,,Tessellation
+0.2.Large optic cup,KNOWN,ODC,1,Optic Disc Cupping; large cup may be physiologic
+0.3.DR1,KNOWN,DR,,DR grade
+1.0.DR2,KNOWN,DR,,DR grade
+1.1.DR3,KNOWN,DR,,DR grade
+2.0.BRVO,KNOWN,BRVO,,
+2.1.CRVO,KNOWN,CRVO,,
+3.RAO,KNOWN,CRAO,1,artery occlusion in RFMiD; branch/central unspecified
+5.0.CSCR,KNOWN,CSR,,Central Serous Retinopathy
+7.ERM,KNOWN,ERM,,
+8.MH,KNOWN,MHL,,JSIEC MH = Macular Hole -> RFMiD MHL (NOT Media Haze)
+9.Pathological myopia,KNOWN,MYA,,Myopia
+10.1.Optic atrophy,KNOWN,ODP,,Optic Disc Pallor
+12.Disc swelling and elevation,KNOWN,ODE,,Optic Disc Edema
+15.0.Retinitis pigmentosa,KNOWN,RP,,
+17.Myelinated nerve fiber,KNOWN,MNF,,
+20.Massive hard exudates,KNOWN,EDN,1,Exudation; debatable (vs DR)
+22.Cotton-wool spots,KNOWN,CWS,,
+23.Vessel tortuosity,KNOWN,TV,,Tortuous Vessels
+24.Chorioretinal atrophy-coloboma,KNOWN,CB,1,Coloboma (combined w/ atrophy); debatable
+25.Preretinal hemorrhage,KNOWN,PRH,,
+27.Laser Spots,KNOWN,LS,,Laser Scars
+4.Rhegmatogenous RD,UNKNOWN,,,no RD class in RFMiD
+5.1.VKH disease,UNKNOWN,,,Vogt-Koyanagi-Harada; absent from RFMiD
+11.Severe hypertensive retinopathy,UNKNOWN,,1,HTN retinopathy not in RFMiD (HR=hemorrhagic)
+13.Dragged Disc,UNKNOWN,,,dragged disc; absent from RFMiD
+14.Congenital disc abnormality,UNKNOWN,,1,congenital disc anomaly category; absent from RFMiD
+15.1.Bietti crystalline dystrophy,UNKNOWN,,,
+16.Peripheral retinal degeneration and break,UNKNOWN,,1,lattice/break; absent from RFMiD
+19.Fundus neoplasm,UNKNOWN,,,tumor/neoplasm; absent from RFMiD
+28.Silicon oil in eye,UNKNOWN,,,post-surgical tamponade appearance
+6.Maculopathy,OMIT,,,generic/heterogeneous
+10.0.Possible glaucoma,OMIT,,,uncertain ('possible')
+18.Vitreous particles,OMIT,,,ambiguous (AH vs opacity vs hemorrhage)
+21.Yellow-white spots-flecks,OMIT,,,heterogeneous/vague
+26.Fibrosis,OMIT,,,ambiguous (scar vs fibrovascular)
+29.0.Blur fundus without PDR,OMIT,,,ungradable image quality
+29.1.Blur fundus with suspected PDR,OMIT,,,ungradable + suspected

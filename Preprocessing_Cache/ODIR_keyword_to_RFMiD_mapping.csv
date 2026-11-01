@@ -1,0 +1,127 @@
+odir_keyword,decision,rfmid_class,debatable_flag,rationale
+Bietti crystalline corneoretinal dystrophy,UNKNOWN,,,
+Coats disease,UNKNOWN,,,
+MAC,OMIT,,,ambiguous abbreviation
+abnormal camera exposure,OMIT,,,image quality
+abnormal pigment,OMIT,,,vague
+age-related macular degeneration,KNOWN,ARMD,,
+anterior segment image,OMIT,,,not a fundus image
+arteriosclerosis,UNKNOWN,,1,arteriosclerotic retinopathy; debatable
+asteroid hyalosis,KNOWN,AH,,
+atrophic change,OMIT,,,vague
+atrophy,OMIT,,,vague
+branch retinal artery occlusion,KNOWN,BRAO,,
+branch retinal occlusion,OMIT,,,artery vs vein unspecified
+branch retinal vein occlusion,KNOWN,BRVO,,
+bull's eye maculopathy,UNKNOWN,,1,
+cataract,KNOWN,MH,1,Media Haze (fundus appearance); PRIMARY sensitivity item
+central retinal artery occlusion,KNOWN,CRAO,,
+central retinal vein occlusion,KNOWN,CRVO,,
+central serous chorioretinopathy,KNOWN,CSR,,Central Serous Retinopathy
+chorioretinal atrophy,OMIT,,,ambiguous etiology (myopia/inflamm)
+chorioretinal atrophy with pigmentation proliferation,OMIT,,,ambiguous etiology
+choroidal nevus,UNKNOWN,,1,benign choroidal lesion; debatable
+congenital choroidal coloboma,KNOWN,CB,,Coloboma
+congenital optic disc anomaly,OMIT,,,generic anomaly
+depigmentation of the retinal pigment epithelium,KNOWN,RPEC,,RPE Changes
+diabetic retinopathy,KNOWN,DR,,
+diffuse chorioretinal atrophy,OMIT,,,ambiguous etiology
+diffuse retinal atrophy,OMIT,,,vague
+drusen,KNOWN,DN,,
+dry age-related macular degeneration,KNOWN,ARMD,,
+epiretinal membrane,KNOWN,ERM,,
+epiretinal membrane over the macula,KNOWN,ERM,,
+fundus laser photocoagulation spots,KNOWN,LS,,Laser Scars
+geographic atrophy,KNOWN,ARMD,1,advanced dry AMD; debatable
+glaucoma,KNOWN,ODC,1,Optic Disc Cupping = glaucoma sign; debatable
+glial remnants anterior to the optic disc,OMIT,,,benign congenital remnant
+hypertensive retinopathy,UNKNOWN,,1,no HTN-retinopathy class in RFMiD (HR=hemorrhagic)
+idiopathic choroidal neovascularization,UNKNOWN,,1,"idiopathic CNV, not AMD; debatable"
+image offset,OMIT,,,image quality
+intraretinal hemorrhage,KNOWN,HR,1,Hemorrhagic Retinopathy; debatable (vs DR)
+intraretinal microvascular abnormality,KNOWN,DR,,IRMA = DR feature
+ischemic optic neuropathy,KNOWN,AION,,
+laser spot,KNOWN,LS,,Laser Scars
+lens dust,OMIT,,,artifact
+low image quality,OMIT,,,image quality
+macualar vascular abnormality,OMIT,,,vague/typo
+macular coloboma,KNOWN,CB,,Coloboma
+macular epiretinal membrane,KNOWN,ERM,,
+macular hole,KNOWN,MHL,,Macular Hole
+macular pigmentation disorder,OMIT,,,vague
+maculopathy,OMIT,,,generic
+microaneurysm,KNOWN,DR,1,DR hallmark lesion; debatable (could omit)
+mild hypertension,OMIT,,,systemic/vague
+mild nonproliferative retinopathy,KNOWN,DR,,NPDR = DR
+moderate non proliferative retinopathy,KNOWN,DR,,NPDR = DR
+moderate nonproliferative retinopathy,KNOWN,DR,,NPDR = DR
+morning glory syndrome,UNKNOWN,,,congenital disc anomaly
+multifocal choroiditis,KNOWN,CRS,1,Chorioretinitis; debatable (vs unknown)
+myelinated nerve fibers,KNOWN,MNF,,
+myopia retinopathy,KNOWN,MYA,,
+myopic maculopathy,KNOWN,MYA,,
+myopic retinopathy,KNOWN,MYA,,
+nerve fiber layer defect,OMIT,,,"sign, not a listed class"
+no fundus image,OMIT,,,not a fundus image
+normal fundus,NORMAL,,,healthy; defines disease-present vs not
+old branch retinal vein occlusion,KNOWN,BRVO,,
+old central retinal vein occlusion,KNOWN,CRVO,,
+old chorioretinopathy,OMIT,,,vague 'old'
+old choroiditis,KNOWN,CRS,1,healed chorioretinitis; debatable
+optic disc anomaly,OMIT,,,generic anomaly
+optic disc edema,KNOWN,ODE,,
+optic discitis,KNOWN,ODE,1,disc inflammation->edema; debatable
+optic disk epiretinal membrane,KNOWN,ERM,,
+optic disk photographically invisible,OMIT,,,image quality
+optic nerve atrophy,KNOWN,ODP,,Optic Disc Pallor
+oval yellow-white atrophy,OMIT,,,vague
+pathological myopia,KNOWN,MYA,,
+peripapillary atrophy,OMIT,,,common associated finding
+pigment epithelium proliferation,KNOWN,RPEC,,RPE Changes
+pigmentation disorder,OMIT,,,vague
+post laser photocoagulation,KNOWN,LS,,Laser Scars
+post photocoagulation of old branch retinal vein occlusion,KNOWN,LS,1,laser scars (also old BRVO)
+post retinal laser surgery,KNOWN,LS,,Laser Scars
+proliferative diabetic retinopathy,KNOWN,DR,,PDR = DR
+punctate inner choroidopathy,UNKNOWN,,,
+refractive media opacity,KNOWN,MH,1,Media Haze; debatable
+retina fold,OMIT,,,ambiguous
+retinal artery macroaneurysm,KNOWN,MCA,,Macroaneurysm
+retinal detachment,UNKNOWN,,1,no RD class (RT=traction only); debatable
+retinal pigment epithelial hypertrophy,KNOWN,RPEC,,RPE Changes
+retinal pigment epithelium atrophy,KNOWN,RPEC,,RPE Changes
+retinal pigmentation,OMIT,,,vague
+retinal vascular sheathing,KNOWN,VS,1,Vasculitis sign; debatable
+retinitis pigmentosa,KNOWN,RP,,
+retinochoroidal coloboma,KNOWN,CB,,Coloboma
+rhegmatogenous retinal detachment,UNKNOWN,,,no RD class in RFMiD
+sever hypertension,OMIT,,,systemic/vague
+severe nonproliferative retinopathy,KNOWN,DR,,NPDR = DR
+severe proliferative diabetic retinopathy,KNOWN,DR,,PDR = DR
+silicone oil eye,UNKNOWN,,,post-surgical tamponade appearance
+spotted membranous change,OMIT,,,vague
+stripe-like change,OMIT,,,vague
+suspected abnormal color of  optic disc,OMIT,,,uncertain
+suspected abnormal macular pigment,OMIT,,,uncertain
+suspected cataract,OMIT,,,uncertain
+suspected choroidal neovascularization,OMIT,,,uncertain
+suspected diabetic retinopathy,OMIT,,,uncertain
+suspected fibrous proliferation membrane,OMIT,,,uncertain
+suspected glaucoma,OMIT,,,uncertain
+suspected macular epimacular membrane,OMIT,,,uncertain
+suspected microvascular anomalies,OMIT,,,uncertain
+suspected moderate non proliferative retinopathy,OMIT,,,uncertain
+suspected moderate nonproliferative retinopathy,OMIT,,,uncertain
+suspected pathological myopia,OMIT,,,uncertain
+suspected retinal vascular sheathing,OMIT,,,uncertain
+suspected retinitis pigmentosa,OMIT,,,uncertain
+suspicious diabetic retinopathy,OMIT,,,uncertain
+tessellated fundus,KNOWN,TSLN,,Tessellation
+vascular loops,OMIT,,,benign vascular variant
+vessel tortuosity,KNOWN,TV,,Tortuous Vessels
+vitreous degeneration,OMIT,,,benign/age-related
+vitreous opacity,OMIT,,,ambiguous (AH/VH/MH)
+wedge white line change,OMIT,,,vague
+wedge-shaped change,OMIT,,,vague
+wet age-related macular degeneration,KNOWN,ARMD,,
+white vessel,OMIT,,,ambiguous

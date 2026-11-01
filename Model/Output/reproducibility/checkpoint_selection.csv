@@ -1,0 +1,11 @@
+arm,seed,selected_epoch,phase_a_baseline,phase_b_floor,selected_ckpt,selected_ckpt_sha256,record
+lco_fold1,42,26,0.4831959180131425,0.45903612211248535,LCO/fold1/Model_Checkpoints/SEED = 42/phaseB/selected.pt,87997a1b71ba62f6fbe7ac4e5c1467025701ccc516c396263065e728a5f23ad1,LCO/fold1/logs/selection_lco_fold1_seed42.json
+lco_fold2,42,21,0.47682126150753623,0.4529801984321594,LCO/fold2/Model_Checkpoints/SEED = 42/phaseB/selected.pt,09b28a8c0335b663746c58f90d73b7a1bea9bbbc8eeae24278ea2f259046dbd7,LCO/fold2/logs/selection_lco_fold2_seed42.json
+lco_fold3,42,29,0.43501245083117523,0.41326182828961644,LCO/fold3/Model_Checkpoints/SEED = 42/phaseB/selected.pt,281c3ff953f1accc971de0d78f1793d14af8736e394a1fc987242af68444cbca,LCO/fold3/logs/selection_lco_fold3_seed42.json
+lco_fold4,42,23,0.477229074407396,0.4533676206870262,LCO/fold4/Model_Checkpoints/SEED = 42/phaseB/selected.pt,7c6b36f71bf71953f915ae58b08fd3d249bb3c8db1a00c396e24122457bd4387,LCO/fold4/logs/selection_lco_fold4_seed42.json
+lco_fold5,42,16,0.5020836376500394,0.47697945576753736,LCO/fold5/Model_Checkpoints/SEED = 42/phaseB/selected.pt,12c29e634fbf9abb0c647408672cac223e4160833ad6053157d9f03ac96abe74,LCO/fold5/logs/selection_lco_fold5_seed42.json
+full,42,25,0.45997740293600453,0.4369785327892043,Model_Checkpoints/SEED = 42/phaseB/selected.pt,cb52d43b57bea52e88370becc27ba5b3c4e288efaa2aecf182a1412e0249213b,logs/selection_full_seed42.json
+full,43,30,0.4380755488669515,0.4161717714236039,Model_Checkpoints/SEED = 43/phaseB/selected.pt,8bcc21e7cc4c407a724a31d7983f076c9d052e04ec847611396dcadaafc331c1,logs/selection_full_seed43.json
+full,44,17,0.44859480273900215,0.426165062602052,Model_Checkpoints/SEED = 44/phaseB/selected.pt,3e277c79e52fde017db5d5246f4336d986afede7e88601af9c1cef81d4b15c88,logs/selection_full_seed44.json
+full,45,20,0.47402803595822235,0.4503266341603112,Model_Checkpoints/SEED = 45/phaseB/selected.pt,1915b78cb9df7baff5023893a3f5468fa76f0053b3994065b809e92960405751,logs/selection_full_seed45.json
+full,46,24,0.46580616818905235,0.44251585977959973,Model_Checkpoints/SEED = 46/phaseB/selected.pt,7f6281402f2ba04108919cd14f321ec2056475184c9e7ab38d6fd128a421298e,logs/selection_full_seed46.json

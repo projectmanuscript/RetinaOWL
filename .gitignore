@@ -1,0 +1,35 @@
+# Ignore everything, but let git look inside folders
+*
+!*/
+
+# Code
+!*.py
+
+# Top-level repository files
+!/.gitignore
+!/README.md
+!/RUN_ORDER.md
+!/LICENSE
+!/requirements.txt
+
+# Mapping files for the external datasets
+!/Preprocessing_Cache/*_to_RFMiD_mapping.csv
+
+# Reference folds, splits and removed images (no absolute paths)
+!/Model/Output/reproducibility/heldout_label_sets.csv
+!/Model/Output/reproducibility/heldout_label_sets.json
+!/Model/Output/reproducibility/val_calibration_split.csv
+!/Model/Output/reproducibility/class_tiers.csv
+!/Model/Output/reproducibility/lco_removed_images.csv
+!/Model/Output/reproducibility/checkpoint_selection.csv
+!/Additions/Output_Protocol_Controls/reproducibility/size_matched_removed_images.csv
+
+# Never commit, even if they contain .py files
+/Dataset/
+/Baseline_Models/
+/Preprocessing_Cache/*/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
